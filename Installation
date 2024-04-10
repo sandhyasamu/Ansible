@@ -12,6 +12,6 @@ It creates a SSH key in our local machine, we need to keep it in the target mach
 
 *ssh-copy-id vagrant@10.0.0.107
 
-
+There are inventories, modules in ansible galaxy
 
 
